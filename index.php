@@ -4,9 +4,8 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <link rel="stylesheet" type="text/css" href="css/main_content_footer.css">
-    
-	<title>Art-of-medicine</title>
+   <link rel="stylesheet" type="text/css" href="css/main_content_footer.css">    
+   <title>Art-of-medicine</title>
 </head>
 
 <body>
@@ -22,11 +21,11 @@
         <h2>“Art of Medicine”</h2>
         <span><p><b>Науково-практичний журнал в галузі:</b></p></span>
         <ol>
-            <li>Медицина;</li>
-            <li>Фармація;</li>
-            <li>Медична освіта;</li>
-            <li>Реабілітація;</li>
-            <li>Фізичне виховання.</li>
+            <li>Медициgggggggggggggна;</li>
+            <li>Фармаffffffffffffffція;</li>
+            <li>Медиggggggчна освіта;</li>
+            <li>Реабіліgggggggggggggтація;</li>
+            <li>Фізичне виховeeeeeeeeeeання.</li>
         </ol>
         <span><p><b>Засновник та видавець</b> Івано-Франківський національний медичний університет</p></span>
         <span><p>Свідоцтво про державну реєстрацію друкованого засобу масової інформації серія КВ № 22689-12589Р від 24.03.2017 р.</p></span>
