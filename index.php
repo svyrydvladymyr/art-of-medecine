@@ -17,7 +17,7 @@
         <br>
         <p style="text-align:right; font-size:16px;"><b>ISSN 2521-1455 </b>(Print)</p>
         <p style="text-align:right; font-size:16px;"><b>ISSN 2523-4250 </b>(Online)</p>
-        <h1>Міністерство охорони здоров’я України</h1>
+        <h1>Міністерство ergerg   охорони здоров’я України</h1>
         <h1>Івано-Франківський національний медичний університет</h1>
         <h2>“Art of Medicine”</h2>
         <span><p><b>Науково-практичний журнал в галузі:</b></p></span>
