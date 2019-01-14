@@ -5,7 +5,8 @@ iframe {
 }
 
 body {
-    display:table;
+    min-height:450px;
+    min-width:300px;
 }
 
 .header {
