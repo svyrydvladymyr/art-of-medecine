@@ -1,5 +1,6 @@
 iframe {
     height:auto;
+    display:table;
 }
 
 
