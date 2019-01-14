@@ -1,3 +1,9 @@
+iframe {
+    height:auto;
+}
+
+
+
 .header {
     outline: var(--outline);
     width: 100%;
