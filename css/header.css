@@ -4,7 +4,9 @@ iframe {
     display:table;
 }
 
-
+body {
+    display:table;
+}
 
 .header {
     outline: var(--outline);
